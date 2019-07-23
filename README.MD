@@ -1,8 +1,8 @@
 # Vault Terraform Template
 
-This code provides a basic Terraform template for deploying a single instance on Vauls secure Critical Infrastructure and Government Cloud. All information provided is intended for reference and educational purposes. Vault uses the OpenStack platform which is compatible with the OpenStack provider on Terraform.
+This code provides a basic Terraform template for deploying a single instance on Vaults secure Critical Infrastructure and Government Cloud. All information provided is intended for reference and educational purposes. Vault uses the OpenStack platform which is compatible with the OpenStack provider on Terraform.
 
-This guid covers linux and MacOS terminal commands. Equivalent steps for sourcing the openrc.sh file can be found in Vaults customer KB
+This guid covers linux and MacOS terminal commands. Equivalent steps for sourcing the openrc.sh file can be found in Vaults customer KB [here.](https://docs.vaultsystems.com.au/display/SKB/Setting+up+Command+Line+Utilities)
 
 ## Prerequisites
 
